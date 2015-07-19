@@ -1,4 +1,6 @@
-﻿# Arduino ESP8266 WiFi - Simple passthrough terminal for the ESP8266 WiFi module
+# Arduino ESP8266 WiFi
+
+## Simple passthrough terminal for the ESP8266 WiFi module
 
 Connect a ESP8266 to the second serial port of the Arduino (Serial1). The sketch just passes the characters it receives from the first serial port (Serial) to the second serial port (Serial1) and vice versa.
  
